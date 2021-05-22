@@ -3,11 +3,13 @@
 
 
 - 🔭 I’m currently working on my Full Stack Development skills
-- 🌱 Trying to dig deeper into AWS Cloud
+- 🎯 Trying to dig deeper into AWS Cloud
 - 💬 Ask me about anything under my scope
 - 😄 Pronouns: He/His
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshavGarg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=VanshavGarg&count_private=true&show_icons=true&theme=tokyonight">
 <hr>
-<p>📫 How to reach me:</p>
-   <p> Drop me a mail at <a href="vanshavg40@gmail.com">vanshavg40@gmail.com</a>
+<h4><b><samp>Connect with me:</samp></b></h4>
+  <a href="www.linkedin.com/in/vanshav-garg" ><img align="left" alt="Linkedin" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"/> </a>
+<a href="https://twitter.com/vanshav_garg"><img align="left" alt="Twitter" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"/></a>
+<a href="vanshavg40@gmail.com"><img align="left" alt="gmail" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail""></a>
