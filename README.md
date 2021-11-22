@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my Full Stack Development skills
-- 🎯 Trying to dig deeper into AWS Cloud
+- 🎯 Trying to dig deeper into Azure Cloud
 - 💬 Ask me about anything under my scope
 - 😄 Pronouns: He/His
 
