@@ -2,7 +2,7 @@
 <p align="center"><h1 align="center"><samp> I am Vanshav Garg </samp></h1></p>
 
 
-- 🔭 I’m currently working on Data Analysis
+- 🔭 I’m currently working on Automation
 - 🎯 Trying to dig deeper into Azure Cloud
 - 💬 Ask me about anything under my scope
 - 😄 Pronouns: He/His
